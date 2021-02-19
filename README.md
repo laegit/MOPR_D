@@ -4,7 +4,7 @@ This repository contains supplementary results for seven multi-objective path-re
 
 This material is our original work and was submitted for publication in Computers & Operations Research.
 
-TODO: If the manuscript is accepted, insert here the bibliographic reference.
+TO-DO: If the manuscript is accepted, insert here the bibliographic reference.
 
 Authors:  <br/>
 	Islame F. C. Fernandes			(Corresponding author: islamifelipe@gmail.com) <br/>
