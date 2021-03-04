@@ -1,0 +1,21 @@
+#ifndef PARAM_GERAL_H
+#define PARAM_GERAL_H
+
+// #define PRECISAO 1e-10 
+#define MAXARCSIZE 300 
+#define PROFUNDIDADEGRID 5 
+#define NUM_AVALIACOES 1000000
+
+#define TAMANHOPOPULACAO_NSGAII 300  // tamanho da populaçao
+#define TAXADECRUZAMENTO 0.92 // (IRACE para o NSGA-II)
+#define TAXADEMUTACAO 0.10 // (IRACE para o NSGA-II)
+#define MAX_SIZE_PQA 100
+
+///// IRACE
+#define NUMSUMPROBLEMAS 91
+#define NUM_VIZINHOS  11 
+#define MAX_SUB_POPULATION 16 
+
+
+
+#endif
