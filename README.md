@@ -1,4 +1,4 @@
-# Instances and suplementary resuts
+# MOPR/D repository
 
 This repository contains supplementary results for seven multi-objective path-relinking variants from the literature (PRr, PRpr, PRpo, PRoc, PRpc, PRac, PRic) and a Decomposition-based Multi-objective Path-relinking (MOPR/D). The results concern the 0/1 Multi-objective Multidimensional Knapsack Problem (MoMKP), the Multi-objective Quadratic Assignment Problem (MoQAP), and the Multiobjective Spanning Tree Problem (MoSTP). The benchmark instances are available as well.   
 
