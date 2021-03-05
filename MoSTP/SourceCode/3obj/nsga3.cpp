@@ -8,6 +8,7 @@ Copyright Islame Felipe da COSTA FERNANDES (2019)
 	
 This code implements a NSGA-III algorithm for Multi-objective Spanning Tree Problem
 
+NSGA-III functions were adapted from https://github.com/adanjoga/nsga3
 
 =====================================================================================
 */
