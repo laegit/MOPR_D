@@ -1,0 +1,6 @@
+README
+
+Since HV and IGD values concern the difference to a reference approximation set, the lower the value,
+the better. Light gray cells emphasize the best values
+
+The file also presets the Kruskal-Wallis one-tailed p-values regarding pairwise comparisons between MOPR/D and each other path-relinking variant. P-values less than 0.05 indicate the best results for the MOPR/D, higher than 0.95 indicate the best results for the algorithm that names the column of the table. The result is not conclusive for p-values between 0.05 and 0.95. The H0 symbol means that the first Kruskal-Wallis phase found no significant difference.
